@@ -366,9 +366,6 @@ a:active {
 /* Grid
       ============================= */
 
-.row {
-    display: flex;
-}
 
 ul.row {
     margin: 0;
@@ -556,6 +553,12 @@ ul.row {
 
 .section-hero .section-inner {
     padding: 10rem 40rem 2rem 0;
+}
+
+/* Section Latest news 
+    ============================= */
+#latest_news .row {
+    flex: row-reverse;
 }
 
 /*** 4. CARD ***/

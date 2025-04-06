@@ -365,6 +365,9 @@ a:active {
 
 /* Grid
       ============================= */
+.row {
+    display: flex;
+}
 
 ul.row {
     margin: 0;
@@ -682,4 +685,3 @@ ul.row {
     font-size: 10rem;
     z-index: -1;
 }
-
