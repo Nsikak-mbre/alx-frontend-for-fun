@@ -585,8 +585,8 @@ ul.row {
 }
 
 /* Section ABOUT US 
-    =========================*/
-.section-about-us [class^="col-"] {
+    ========================= */
+.section-about-us div[class^="col-"] {
     align-self: center;
 }
 
