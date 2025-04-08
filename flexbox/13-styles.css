@@ -815,7 +815,7 @@ ul.row {
     list-style: none;
 }
 
-.tag-list>li {
+.tag-list li {
     display: inline;
 
 }
