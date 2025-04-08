@@ -776,7 +776,7 @@ ul.row {
     display: flex;
 }
 
-.post-content {
+.post .post-content {
     width: 100%;
 }
 
