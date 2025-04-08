@@ -810,7 +810,7 @@ ul.row {
 /* Tag list
     ============================= */
 
-.post-meta-tag .tag-list {
+.tag-list {
     padding: 0;
     list-style: none;
 }
